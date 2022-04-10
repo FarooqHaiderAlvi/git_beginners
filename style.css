@@ -2,7 +2,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aqua;
+    background-color: aquamarine;
     height: 50px;
    
+}
+.container2{
+  
+    background-image: linear-gradient(to right, aquamarine , aqua);
 }
